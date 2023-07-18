@@ -1,6 +1,7 @@
-#Provide Solution Architeture Documentation
+# Provide Solution Architeture Documentation
 
-##Prompt
+## Prompt
+```
 "Could you help me write a solution architecture documentation for a project? Here are the details:
 
 Project Aim: (Describe what the project aims to achieve. In the previous example, it was an automated system designed to deactivate users in the DSI system.)
